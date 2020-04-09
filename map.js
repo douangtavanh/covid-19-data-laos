@@ -55,7 +55,7 @@ $(document).ready(function () {
                     "<br>" +
                     "<h5 style='color: red; font-weight: bolder;'>" + `${+d["properties"]["feature_id"]}` + "</h5>" +
                     "<br>" +
-                    "<p> Persons </p>"
+                    "<p> Cases </p>"
                 )
                     .style("left", (d3.event.pageX) + "px")
                     .style("top", (d3.event.pageY + 100) + "px");
@@ -144,7 +144,7 @@ $(document).ready(function () {
                     "<br>" +
                     "<h5 style='color: red; font-weight: bolder;'>" + `${+d["properties"]["feature_id"]}` + "</h5>" +
                     "<br>" +
-                    "<p> Persons </p>"
+                    "<p> Cases </p>"
                 )
                     .style("left", (d3.event.pageX) + "px")
                     .style("top", (d3.event.pageY + 100) + "px");
