@@ -227,5 +227,5 @@ let drawLaosMap = (presentTotal, presentMale, presentFemale) => {
 }
 document.addEventListener("DOMContentLoaded", function () {
     //drawLaosMap(name of total infected cases row,  name of male infected row, name of female infected row)
-    drawLaosMap("20200411", "m20200411", "f20200411");
+    drawLaosMap("20200412", "m20200412", "f20200412");
 });
