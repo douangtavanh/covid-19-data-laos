@@ -1,19 +1,19 @@
-﻿Province_S,Province_L,feature_id,202004008,20200409,m20200409,f20200409
-VTE,﻿Vientiane Capital,13,12,13,6,7
-PHO,﻿Phongsaly,10,,,,
-LNT,﻿Luang Namtha,7,,,,
-ODX,﻿Oudomxay,9,,,,
-BK ,﻿Bokeo,2,,,,
-LPB,﻿Luang Prabang,8,3,3,2,1
-HPH,﻿Houaphan,5,,,,
-XYB,﻿Xaignabouli,0,,,,
-XK,﻿Xiangkhouang,17,,,,
-VTP,﻿Vientiane,14,,,,
-BKX,﻿Bolikhamsai,3,,,,
-KHM,﻿Khammouane,6,,,,
-SVK,﻿Savannakhet,12,,,,
-SLV,﻿Salavan,11,,,,
-SK,﻿Xekong,16,,,,
-CPS,﻿Champasak,4,,,,
-ATP,﻿Attapeu,1,,,,
-XSB,﻿Xaisomboun,15,,,,
+﻿Province_S,Province_L,feature_id,202004008,20200409,m20200409,f20200409,20200410,m20200410,f20200410,20200411,m20200411,f20200411
+VTE,﻿Vientiane Capital,13,12,13,6,7,13,6,7,15,6,9
+PHO,﻿Phongsaly,10,,,,,,,,,,
+LNT,﻿Luang Namtha,7,,,,,,,,,,
+ODX,﻿Oudomxay,9,,,,,,,,,,
+BK ,﻿Bokeo,2,,,,,,,,,,
+LPB,﻿Luang Prabang,8,3,3,2,1,3,2,1,3,2,1
+HPH,﻿Houaphan,5,,,,,,,,,,
+XYB,﻿Xaignabouli,0,,,,,,,,,,
+XK,﻿Xiangkhouang,17,,,,,,,,,,
+VTP,﻿Vientiane,14,,,,,,,,,,
+BKX,﻿Bolikhamsai,3,,,,,,,,,,
+KHM,﻿Khammouane,6,,,,,,,,,,
+SVK,﻿Savannakhet,12,,,,,,,,,,
+SLV,﻿Salavan,11,,,,,,,,,,
+SK,﻿Xekong,16,,,,,,,,,,
+CPS,﻿Champasak,4,,,,,,,,,,
+ATP,﻿Attapeu,1,,,,,,,,,,
+XSB,﻿Xaisomboun,15,,,,,,,,,,
