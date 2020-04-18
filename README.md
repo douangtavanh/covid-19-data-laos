@@ -1,6 +1,8 @@
 # covid19-data-viz-Lao
 ຂໍ້ມູນທັງໝົດອ້າງອີງຈາກ https://www.covid19.gov.la
 
+ເບິ່ງ live demo:https://douangtavanh.app/
+
 18 ເມສາ 2020:
 + ອັບເດດຟາຍທັງໝົດໃໝ່ໝົດ
 + ເພີ່ມ function ຂອງ Map ໂດຍການປ່ຽນໄປໃຊ້ Mapbox API ໃນການສະແດງແຜນທີ ແຕ່ຍັງຕ້ມແຜນທີ່ດ້ວຍ D3JS ຄືເກົ່າ
