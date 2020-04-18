@@ -401,5 +401,5 @@ let mapbox = (presentTotal, presentMale, presentFemale) => {
 
 document.addEventListener("DOMContentLoaded", function () {
     //drawLaosMap(name of total infected cases row,  name of male infected row, name of female infected row)
-    mapbox("20200418", "m20200418", "f20200418");
+    mapbox("presentDate", "mPresentDate", "fPresentDate");
 });
