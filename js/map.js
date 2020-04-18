@@ -1,7 +1,7 @@
 //Mapbox Script
 let mapbox = (presentTotal, presentMale, presentFemale) => {
     //Mapbox API token goes here
-    mapboxgl.accessToken = 'pk.eyJ1IjoiZG91YW5ndGF2YW5oIiwiYSI6ImNrOTAzamVwZDAwa2QzZ3BndHRwZGdldmIifQ.NHFYqE0p1crfa5LSI4wLWw';
+    mapboxgl.accessToken = '';
 
     //Set up Mapbox style and call Mapbox API
     let map = new mapboxgl.Map({
