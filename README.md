@@ -1,5 +1,13 @@
 # covid19-data-viz-Lao
-All the data comes from https://www.covid19.gov.la
+ຂໍ້ມູນທັງໝົດອ້າງອີງຈາກ https://www.covid19.gov.la
+
+18 ເມສາ 2020:
++ ອັບເດດຟາຍທັງໝົດໃໝ່ໝົດ
++ ເພີ່ມ function ຂອງ Map ໂດຍການປ່ຽນໄປໃຊ້ Mapbox API ໃນການສະແດງແຜນທີ ແຕ່ຍັງຕ້ມແຜນທີ່ດ້ວຍ D3JS ຄືເກົ່າ
++ ເພີ່ມການສະແດງ case ທັງໝົດ ຕາມແຕ່ລະແຂວ
++ ເພີ່ມລະບຸຕໍາແໜ່ງໃກ້ຄຽງຂອງ case ແຕ່ລະ case ວ່າຢູ່ບ່ອນໃດ ໂດຍອີງໃສ່ບ້ານເປັນຫຼັກໃນການປັກໝຸດ
+
+
 
 4 April 2020 NOTE:
 index.html
