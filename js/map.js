@@ -19,8 +19,10 @@ let mapbox = (presentTotal, presentMale, presentFemale) => {
 
     // Set map file path for d3js drawing on mapbox
     let laoMapPath = ("map/LAO_ADM1.geojson");
-    let laoMapDataPath = ("data/laoPDR.csv");
-    let laoMapCaseDataPath = ("data/case.json")
+    let laoMapDataPath = ("https://raw.githubusercontent.com/douangtavanh/covid19-data-viz-Lao/master/data/laoPDR.csv"); //Default use to update data directly by owner GitHub
+    //let laoMapDataPath = ("data/laoPDR.csv"); //In case develop in local
+    let laoMapCaseDataPath = ("https://raw.githubusercontent.com/douangtavanh/covid19-data-viz-Lao/master/data/case.json"); //Default use to update data directly by owner GitHub
+    //let laoMapCaseDataPath = ("data/case.json"); //In case develop in local
 
     //Import data
     let promise = [
