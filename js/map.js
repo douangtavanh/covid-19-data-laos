@@ -379,7 +379,7 @@ let mapbox = (presentTotal, presentMale, presentFemale) => {
         map.on("moveend", function () {
             update()
             svg.classed("hidden", false);
-        })
+        });
 
         //Finally activate update() function
         update();
