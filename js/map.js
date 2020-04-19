@@ -244,7 +244,7 @@ let mapbox = (presentTotal, presentMale, presentFemale) => {
                     "<tr>" +
                     "<td>" + "ຊື່: " + `${d["name"]}` + "</td>" +
                     "<td>" + "ເພດ: " + `${d["sex"]}` + "</td>" +
-                    "<td>" + "ອາຍຸ: " + `${d["age"]}` + "</td>" +
+                    "<td>" + "ອາຍຸ: " + `${d["age"]}` + " ປີ" + "</td>" +
                     "</tr>" +
                     "<tr>" +
                     "<td>" + "ບ້ານ: " + `${d["village"]}` + "</td>" +
@@ -267,7 +267,7 @@ let mapbox = (presentTotal, presentMale, presentFemale) => {
                     "</tr>" +
                     "<tr>" +
                     "<td>" + "ເພດ: " + `${d["sex"]}` + "</td>" +
-                    "<td>" + "ອາຍຸ: " + `${d["age"]}` + "</td>" +
+                    "<td>" + "ອາຍຸ: " + `${d["age"]}` + " ປີ" + "</td>" +
                     "</tr>" +
                     "<tr>" +
                     "<td>" + "ບ້ານ: " + `${d["village"]}` + "</td>" +
@@ -290,7 +290,7 @@ let mapbox = (presentTotal, presentMale, presentFemale) => {
                     "</tr>" +
                     "<tr>" +
                     "<td>" + "ເພດ: " + `${d["sex"]}` + "</td>" +
-                    "<td>" + "ອາຍຸ: " + `${d["age"]}` + "</td>" +
+                    "<td>" + "ອາຍຸ: " + `${d["age"]}` + " ປີ" + "</td>" +
                     "</tr>" +
                     "<tr>" +
                     "<td>" + "ບ້ານ: " + `${d["village"]}` + "</td>" +
