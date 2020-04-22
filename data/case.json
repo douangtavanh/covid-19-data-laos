@@ -2,7 +2,7 @@
   {
     "case": "1",
     "name": "",
-    "caseFoundDate": "24/03/2020",
+    "caseFoundDate": "24-03-2020",
     "caseResolvedDate": "",
     "village": "ຈັນສະຫວ່າງ",
     "district": "ສີໂຄດຕະບອງ",
@@ -22,7 +22,7 @@
   {
     "case": "2",
     "name": "",
-    "caseFoundDate": "24/03/2020",
+    "caseFoundDate": "24-03-2020",
     "caseResolvedDate": "",
     "village": "ຄໍາຮຸ່ງ",
     "district": "ໄຊທານີ",
@@ -42,7 +42,7 @@
   {
     "case": "3",
     "name": "",
-    "caseFoundDate": "24/03/2020",
+    "caseFoundDate": "24-03-2020",
     "caseResolvedDate": "",
     "village": "ຫ້ວຍຫ້ອມ",
     "district": "ສີໂຄດຕະບອງ",
@@ -62,14 +62,14 @@
   {
     "case": "4",
     "name": "",
-    "caseFoundDate": "25/03/2020",
-    "caseResolvedDate": "",
+    "caseFoundDate": "25-03-2020",
+    "caseResolvedDate": "22-04-2020",
     "village": "ປ່ອງຄໍາ",
     "district": "ນະຄອນຫຼວງພະບາງ",
     "province": "ຫຼວງພະບາງ",
     "sex": "ຊາຍ",
     "age": "42",
-    "status": "ກໍາລັງປິ່ນປົວ",
+    "status": "ປິ່ນປົວຫາຍດີ",
     "timePeriodHospitalize": "",
     "infectedSource": "ເປັນຄົນ ຂັບລົດໃຫ້ແກ່ ກຸ່ມທົວ",
     "textNoted": "",
@@ -82,14 +82,14 @@
   {
     "case": "5",
     "name": "",
-    "caseFoundDate": "26/03/2020",
-    "caseResolvedDate": "",
+    "caseFoundDate": "26-03-2020",
+    "caseResolvedDate": "22-04-2020",
     "village": "ວິຊຸນ",
     "district": "ນະຄອນຫຼວງພະບາງ",
     "province": "ຫຼວງພະບາງ",
     "sex": "ຊາຍ",
     "age": "52",
-    "status": "ກໍາລັງປິ່ນປົວ",
+    "status": "ປິ່ນປົວຫາຍດີ",
     "timePeriodHospitalize": "",
     "infectedSource": "ເປັນຄົນ ຂັບລົດໃຫ້ແກ່ ກຸ່ມທົວ",
     "textNoted": "",
@@ -102,7 +102,7 @@
   {
     "case": "6",
     "name": "",
-    "caseFoundDate": "26/03/2020",
+    "caseFoundDate": "26-03-2020",
     "caseResolvedDate": "",
     "village": "ຈໍາປາ",
     "district": "ສີໂຄດຕະບອງ",
@@ -122,7 +122,7 @@
   {
     "case": "7",
     "name": "",
-    "caseFoundDate": "28/03/2020",
+    "caseFoundDate": "28-03-2020",
     "caseResolvedDate": "",
     "village": "ວິຊຸນ",
     "district": "ນະຄອນຫຼວງພະບາງ",
@@ -142,7 +142,7 @@
   {
     "case": "8",
     "name": "",
-    "caseFoundDate": "28/03/2020",
+    "caseFoundDate": "28-03-2020",
     "caseResolvedDate": "",
     "village": "ດອນນົກຂຸ້ມ",
     "district": "ສີສັດຕະນາກ",
@@ -162,7 +162,7 @@
   {
     "case": "9",
     "name": "",
-    "caseFoundDate": "30/03/2020",
+    "caseFoundDate": "30-03-2020",
     "caseResolvedDate": "",
     "village": "ໂພນພະເນົາ",
     "district": "ໄຊເສດຖາ",
@@ -182,7 +182,7 @@
   {
     "case": "10",
     "name": "",
-    "caseFoundDate": "01/04/2020",
+    "caseFoundDate": "01-04-2020",
     "caseResolvedDate": "",
     "village": "ໜອງສະໂນຄໍາ",
     "district": "ສີໂຄດຕະບອງ",
@@ -202,7 +202,7 @@
   {
     "case": "11",
     "name": "",
-    "caseFoundDate": "05/04/2020",
+    "caseFoundDate": "05-04-2020",
     "caseResolvedDate": "",
     "village": "ບໍລິສັດພູເບ້ຍມາຍນິງ",
     "district": "",
@@ -222,8 +222,8 @@
   {
     "case": "12",
     "name": "ນາງ ເພັດມະລີ ມົງຄົນວິໄລ",
-    "caseFoundDate": "06/04/2020",
-    "caseResolvedDate": "14/04/2020",
+    "caseFoundDate": "06-04-2020",
+    "caseResolvedDate": "14-04-2020",
     "village": "ນາໄຊ",
     "district": "ໄຊເສດຖາ",
     "province": "ນະຄອນຫຼວງວຽງຈັນ",
@@ -242,7 +242,7 @@
   {
     "case": "13",
     "name": "",
-    "caseFoundDate": "07/04/2020",
+    "caseFoundDate": "07-04-2020",
     "caseResolvedDate": "",
     "village": "ດອນກອຍ",
     "district": "ສີສັດຕະນາກ",
@@ -262,8 +262,8 @@
   {
     "case": "14",
     "name": "ນາງ ສິລິວັນ ສີສົມບັດ",
-    "caseFoundDate": "07/04/2020",
-    "caseResolvedDate": "16/04/2020",
+    "caseFoundDate": "07-04-2020",
+    "caseResolvedDate": "16-04-2020",
     "village": "ຊ້າງຄູ້",
     "district": "ໄຊທານີ",
     "province": "ນະຄອນຫຼວງວຽງຈັນ",
@@ -282,7 +282,7 @@
   {
     "case": "15",
     "name": "",
-    "caseFoundDate": "08/04/2020",
+    "caseFoundDate": "08-04-2020",
     "caseResolvedDate": "",
     "village": "ຈອມມະນີ",
     "district": "ໄຊເສດຖາ",
@@ -302,7 +302,7 @@
   {
     "case": "16",
     "name": "",
-    "caseFoundDate": "09/04/2020",
+    "caseFoundDate": "09-04-2020",
     "caseResolvedDate": "",
     "village": "ໜອງດ້ວງ",
     "district": "ສີໂຄດຕະບອງ",
@@ -322,7 +322,7 @@
   {
     "case": "17",
     "name": "",
-    "caseFoundDate": "11/04/2020",
+    "caseFoundDate": "11-04-2020",
     "caseResolvedDate": "",
     "village": "ໜອງດ້ວງທົ່ງ",
     "district": "ສີໂຄດຕະບອງ",
@@ -342,7 +342,7 @@
   {
     "case": "18",
     "name": "",
-    "caseFoundDate": "11/04/2020",
+    "caseFoundDate": "11-04-2020",
     "caseResolvedDate": "",
     "village": "ໜອງດ້ວງ",
     "district": "ສີໂຄດຕະບອງ",
@@ -362,7 +362,7 @@
   {
     "case": "19",
     "name": "",
-    "caseFoundDate": "12/04/2020",
+    "caseFoundDate": "12-04-2020",
     "caseResolvedDate": "",
     "village": "ໂພນປ່າເປົ້າ",
     "district": "ສີສັດຕະນາກ",
