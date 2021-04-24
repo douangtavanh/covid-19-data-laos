@@ -1,0 +1,280 @@
+{
+  "nodes": [
+    {
+      "case": 0,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 59,
+      "gender": "ຍິງ",
+      "age": 25,
+      "occupation": "ນັກສຶກສາ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-20"
+    },
+    {
+      "case": 60,
+      "gender": "ຍິງ",
+      "age": 28,
+      "occupation": "ແມ່ເຮືອນ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-20"
+    },
+    {
+      "case": 89,
+      "gender": "ຍິງ",
+      "age": 24,
+      "occupation": "",
+      "location": "ສະຫວັນນະເຂດ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 90,
+      "gender": "ຊາຍ",
+      "age": 31,
+      "occupation": "ພະນັກງານ",
+      "location": "ບໍ່ແກ້ວ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 91,
+      "gender": "ຊາຍ",
+      "age": 28,
+      "occupation": "ພະນັກງານ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 92,
+      "gender": "ຍິງ",
+      "age": 22,
+      "occupation": "ຂາຍເຄື່ອງອອນໄລນ໌",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 93,
+      "gender": "ຊາຍ",
+      "age": 23,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 94,
+      "gender": "ຊາຍ",
+      "age": 18,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 95,
+      "gender": "ຊາຍ",
+      "age": 29,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 96,
+      "gender": "ຍິງ",
+      "age": 23,
+      "occupation": "ຂາຍເຄື່ອງຢູ່ຕະຫຼາດອົດຊີ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 98,
+      "gender": "ຍິງ",
+      "age": 24,
+      "occupation": "ຂາຍເຄື່ອງຢູ່ໜ້າໂຮງຮຽນສີຖານ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 102,
+      "gender": "ຍິງ",
+      "age": 24,
+      "occupation": "ຄ້າຂາຍ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 103,
+      "gender": "ຊາຍ",
+      "age": 33,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 104,
+      "gender": "ຊາຍ",
+      "age": 19,
+      "occupation": "ຂາຍເຄື່ອງອອນລາຍ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 105,
+      "gender": "ຊາຍ",
+      "age": 33,
+      "occupation": "ຂາຍເຄື່ອງອອນລາຍ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 108,
+      "gender": "",
+      "age": 0,
+      "occupation": "ຄ້າຂາຍ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 109,
+      "gender": "",
+      "age": 0,
+      "occupation": "ນັກຮຽນ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 110,
+      "gender": "",
+      "age": 0,
+      "occupation": "ພະນັກງານສ້ອມແປງລົດ ຢູ່ອູ່ສ້ອມແປງສະພານທອງ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 125,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 126,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 131,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    },
+    {
+      "case": 132,
+      "gender": "",
+      "age": 0,
+      "occupation": "ພະນັກງານ",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2021-04-22"
+    }
+  ],
+  "link": [
+    {
+      "source": 85,
+      "target": 91,
+      "relationship": "contact"
+    },
+    {
+      "source": 59,
+      "target": 92,
+      "relationship": "contact"
+    },
+    {
+      "source": 58,
+      "target": 93,
+      "relationship": "contact"
+    },
+    {
+      "source": 59,
+      "target": 94,
+      "relationship": "indirect contact - ຮ້ານຄາລາໂອເກະ 8118 "
+    },
+    {
+      "source": 59,
+      "target": 95,
+      "relationship": "contact"
+    },
+    {
+      "source": 61,
+      "target": 61,
+      "relationship": "contact"
+    },
+    {
+      "source": 91,
+      "target": 95,
+      "relationship": "contact"
+    },
+    {
+      "source": 59,
+      "target": 96,
+      "relationship": "contact"
+    },
+    {
+      "source": 61,
+      "target": 96,
+      "relationship": "contact"
+    },
+    {
+      "source": 91,
+      "target": 98,
+      "relationship": "contact"
+    },
+    {
+      "source": 61,
+      "target": 98,
+      "relationship": "contact"
+    },
+    {
+      "source": 61,
+      "target": 102,
+      "relationship": "contact"
+    },
+    {
+      "source": 72,
+      "target": 103,
+      "relationship": "contact"
+    },
+    {
+      "source": 92,
+      "target": 105,
+      "relationship": "contact"
+    },
+    {
+      "source": 61,
+      "target": 108,
+      "relationship": "contact"
+    },
+    {
+      "source": 59,
+      "target": 109,
+      "relationship": "contact"
+    },
+    {
+      "source": 91,
+      "target": 109,
+      "relationship": "contact"
+    },
+    {
+      "source": 59,
+      "target": 110,
+      "relationship": "contact"
+    }
+  ]
+}
