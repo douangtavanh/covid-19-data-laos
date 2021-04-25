@@ -1,7 +1,271 @@
 {
   "nodes": [
     {
-      "case": 0,
+      "case": 1,
+      "gender": "ຊາຍ",
+      "age": 28,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-03-24"
+    },
+    {
+      "case": 2,
+      "gender": "ຍິງ",
+      "age": 36,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-03-24"
+    },
+    {
+      "case": 3,
+      "gender": "ຊາຍ",
+      "age": 26,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-03-24"
+    },
+    {
+      "case": 4,
+      "gender": "ຊາຍ",
+      "age": 42,
+      "occupation": "",
+      "location": "ຫຼວງພະບາງ",
+      "date_registered": "2020-03-25"
+    },
+    {
+      "case": 5,
+      "gender": "ຊາຍ",
+      "age": 52,
+      "occupation": "",
+      "location": "ຫຼວງພະບາງ",
+      "date_registered": "2020-03-26"
+    },
+    {
+      "case": 6,
+      "gender": "ຊາຍ",
+      "age": 41,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-03-26"
+    },
+    {
+      "case": 7,
+      "gender": "ຍິງ",
+      "age": 50,
+      "occupation": "",
+      "location": "ຫຼວງພະບາງ",
+      "date_registered": "2020-03-28"
+    },
+    {
+      "case": 8,
+      "gender": "ຊາຍ",
+      "age": 18,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-03-28"
+    },
+    {
+      "case": 9,
+      "gender": "ຍິງ",
+      "age": 22,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-03-30"
+    },
+    {
+      "case": 10,
+      "gender": "ຍິງ",
+      "age": 21,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-01"
+    },
+    {
+      "case": 11,
+      "gender": "ຊາຍ",
+      "age": 55,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-05"
+    },
+    {
+      "case": 12,
+      "gender": "ຍິງ",
+      "age": 20,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-06"
+    },
+    {
+      "case": 13,
+      "gender": "ຊາຍ",
+      "age": 40,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-07"
+    },
+    {
+      "case": 14,
+      "gender": "ຍິງ",
+      "age": 19,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-07"
+    },
+    {
+      "case": 15,
+      "gender": "ຍິງ",
+      "age": 20,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-08"
+    },
+    {
+      "case": 16,
+      "gender": "ຍິງ",
+      "age": 23,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-09"
+    },
+    {
+      "case": 17,
+      "gender": "ຍິງ",
+      "age": 32,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-11"
+    },
+    {
+      "case": 18,
+      "gender": "ຍິງ",
+      "age": 32,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-11"
+    },
+    {
+      "case": 19,
+      "gender": "ຊາຍ",
+      "age": 21,
+      "occupation": "",
+      "location": "ນະຄອນຫຼວງວຽງຈັນ",
+      "date_registered": "2020-04-11"
+    },
+    {
+      "case": 20,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 21,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 22,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 23,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 24,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 25,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 26,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 27,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 28,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 29,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 30,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 31,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 32,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 33,
+      "gender": "",
+      "age": 0,
+      "occupation": "",
+      "location": "",
+      "date_registered": ""
+    },
+    {
+      "case": 34,
       "gender": "",
       "age": 0,
       "occupation": "",
@@ -194,6 +458,56 @@
     }
   ],
   "link": [
+    {
+      "source": 1,
+      "target": 3,
+      "relationship": "contact"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "relationship": "contact"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "relationship": "contact"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "relationship": "contact"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "relationship": "contact"
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "relationship": "contact"
+    },
+    {
+      "source": 10,
+      "target": 16,
+      "relationship": "contact"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "relationship": "contact"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "relationship": "contact"
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "relationship": "contact"
+    },
     {
       "source": 85,
       "target": 91,
