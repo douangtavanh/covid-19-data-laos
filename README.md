@@ -1,7 +1,13 @@
 # covid19-data-viz-Lao
-ຂໍ້ມູນທັງໝົດອ້າງອີງຈາກ https://www.covid19.gov.la
+ຂໍ້ມູນທັງໝົດອ້າງອີງຈາກ https://www.covid19.gov.la & https://www.facebook.com/CIEH.MoH.Lao
 
-ເບິ່ງ live demo:https://douangtavanh.app/
+ເບິ່ງ live demo:https://douangtavanh.app/ & https://observablehq.com/@douangtavanh/visualization-covid-19-vaccination-data-laos
+
+
+## Changelog
+
+17 May 2021:
++ Removed data on 16 May 2021 as it is incorrect data. ref. (https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4252839018074093/)
 
 18 ເມສາ 2020:
 + ອັບເດດຟາຍທັງໝົດໃໝ່ໝົດ
