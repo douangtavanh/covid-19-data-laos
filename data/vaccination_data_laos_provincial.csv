@@ -1,4 +1,4 @@
-﻿province_s,province_l,feature_id,date,people_vaccinated,people_fully_vaccinated,source
+province_s,province_l,feature_id,date,people_vaccinated,people_fully_vaccinated,source
 CENTRE,Central Hospitals,99,21/4/2021,5936,2598,https://www.facebook.com/CIEH.MoH.Lao/photos/4177170442307618
 VTE,Vientiane Capital,13,21/4/2021,14648,849,https://www.facebook.com/CIEH.MoH.Lao/photos/4177170442307618
 PHO,Phongsaly,10,21/4/2021,1548,182,https://www.facebook.com/CIEH.MoH.Lao/photos/4177170442307618
@@ -588,3 +588,22 @@ SK,Sekong,16,20/6/2021,4833,3521,https://www.facebook.com/CIEH.MoH.Lao/photos/a.
 CPS,Champasak,4,20/6/2021,47307,29700,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4358284747529519
 ATP,Attapeu,1,20/6/2021,11814,7633,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4358284747529519
 XSB,Xaysomboun,15,20/6/2021,2915,1810,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4358284747529519
+CENTRE,Central Hospitals,99,24/6/2021,101053,62607,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+VTE,Vientiane Capital,13,24/6/2021,270515,107792,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+PHO,Phongsaly,10,24/6/2021,9553,4085,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+LNT,Luangnamtha,7,24/6/2021,18724,15775,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+ODX,Oudomxay,9,24/6/2021,28264,13884,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+BK ,Bokeo,2,24/6/2021,73009,62198,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+LPB,Luangprabang,8,24/6/2021,34768,27793,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+HPH,Huaphanh,5,24/6/2021,13766,6636,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+XYB,Xayabury,0,24/6/2021,40021,30730,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+XK,Xiengkhuang,17,24/6/2021,24901,12711,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+VTP,Vientiane,14,24/6/2021,46959,33595,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+BKX,Borikhamxay,3,24/6/2021,28307,18648,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+KHM,Khammuane,6,24/6/2021,36983,18877,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+SVK,Savannakhet,12,24/6/2021,53865,35929,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+SLV,Saravane,11,24/6/2021,21270,15960,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+SK,Sekong,16,24/6/2021,4880,3644,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+CPS,Champasak,4,24/6/2021,47308,31428,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+ATP,Attapeu,1,24/6/2021,11814,8666,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
+XSB,Xaysomboun,15,24/6/2021,3410,2045,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4369516496406344
