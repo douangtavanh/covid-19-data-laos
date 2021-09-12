@@ -1,4 +1,4 @@
-province_s,province_l,feature_id,date,people_vaccinated,people_fully_vaccinated,source,Flag
+province_s,province_l,feature_id,date,people_vaccinated,people_fully_vaccinated,source,flag
 CENTRE,Central Hospitals,99,21/4/2021,5936,2598,https://www.facebook.com/CIEH.MoH.Lao/photos/4177170442307618,1
 VTE,Vientiane Capital,13,21/4/2021,14648,849,https://www.facebook.com/CIEH.MoH.Lao/photos/4177170442307618,1
 PHO,Phongsaly,10,21/4/2021,1548,182,https://www.facebook.com/CIEH.MoH.Lao/photos/4177170442307618,1
