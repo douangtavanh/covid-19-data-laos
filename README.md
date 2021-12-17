@@ -8,7 +8,12 @@
 
 All data related to Covid-19 cases and vaccination is collected from https://www.facebook.com/CCEH.MoH.Lao/
 
-## live demo
+## NOTE:
+* Regarding the flag column in "vaccination_data_laos_provincial.csv", 0 means there is no issues based on my data validation, while  1 means either the total number of first dose or the total number of second are different from the source.
+* For "vaccination_covid_19_Laos.csv", it can be seen that the date is skipped. This is because the official government' Facebook page dose not report everyday. If you want to used this data, I create a file which includes all dates thus I suggest you to use "vaccination_covid_19_Laos_adjusted.csv" instead.
+
+
+## Live demo
 https://douangtavanh.com/projects/covid19-confirmed-cases-map/ & https://observablehq.com/@douangtavanh/visualization-covid-19-vaccination-data-laos
 
 
