@@ -5,11 +5,11 @@ date,support_organization,type_of_vaccine,amount_of_vaccine,source
 20 March 2021,COVAX,AstraZeneca,132000,https://www.unicef.org/laos/press-releases/covid-19-vaccines-shipped-covax-facility-arrive-lao-pdr
 31 March 2021,CHINA AID,Sinopharm,800000,https://lao-covaf.gov.la/news_detailed/31032021
 26 April 2021,CHINA AID,Sinopharm,300000,https://moh.gov.la/index.php/2021/04/29/vaccine-for-laos
-2 June 2021,COVAX,Pfizer,100620,https://twitter.com/UNICEFLaos/status/1400010556262674432
+2 June 2021,COVAX - The US Government,Pfizer,100620,https://twitter.com/UNICEFLaos/status/1400010556262674432
 14 June 2021,CHINA AID,Sinopharm,500000,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4339626046062056
-15 July 2021,COVAX,Johnson & Johnson/Janssen,1008000,https://www.unicef.org/laos/press-releases/united-states-donates-more-one-million-covid-19-vaccines-lao-pdr-through-covax
+15 July 2021,COVAX - The US Government,Johnson & Johnson/Janssen,1008000,https://www.unicef.org/laos/press-releases/united-states-donates-more-one-million-covid-19-vaccines-lao-pdr-through-covax
 2 August 2021,The UK Government,AstraZeneca,415000,https://twitter.com/JohnPearson68/status/1422152135362310145
-5 August 2021,COVAX - Japan Government,AstraZeneca,616820,https://www.unicef.org/laos/press-releases/japan-donates-covid-19-vaccines-lao-pdr-through-covax-facility
+5 August 2021,COVAX - The Japan Government,AstraZeneca,616820,https://www.unicef.org/laos/press-releases/japan-donates-covid-19-vaccines-lao-pdr-through-covax-facility
 7 August 2021,CHINA AID,Sinopharm,1000000,https://www.facebook.com/CCEH.MoH.Lao/posts/4497030363654956
 22 September 2021,Russia AID,Sputnik Light,30000,https://www.facebook.com/CCEH.MoH.Lao/posts/4638499822841342
 14 October 2021,CHINA AID,Sinopharm,1000000,https://www.vientianetimes.org.la/freeContent/FreeConten_China202.php
@@ -21,3 +21,7 @@ date,support_organization,type_of_vaccine,amount_of_vaccine,source
 17 December 2021,The Poland Government,AstraZeneca,138600,https://www.facebook.com/CCEH.MoH.Lao/posts/284923013670634
 19 December 2021,The Australia Government,AstraZeneca,100000,https://www.facebook.com/CCEH.MoH.Lao/posts/286257696870499
 21 December 2021,The Poland Government,AstraZeneca,501600,https://www.facebook.com/CCEH.MoH.Lao/posts/287634420066160
+23 December 2021,COVAX - The French Government,AstraZeneca,192000,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
+23 December 2021,COVAX - The Japan Government,AstraZeneca,320200,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
+23 December 2021,COVAX - The Greece Government,Johnson & Johnson/Janssen,320400,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
+23 December 2021,COVAX - The Japan Government,Johnson & Johnson/Janssen,460800,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
