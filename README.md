@@ -1,4 +1,4 @@
-# covid19-data-viz-Lao
+# Covid-19-Data-of-Laos
 
 ## What data is collected in the data folder?
 1. Vaccination data -The number of vaccinated people in total and by province. (update daily)
