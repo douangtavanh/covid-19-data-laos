@@ -1,33 +1,32 @@
-﻿date;support_organization;type_of_vaccine;amount_of_vaccine;source
-2-Jan-21;Russia AID;Sputnik V;1000;https://moh.gov.la/index.php/2021/01/04/target-to-vaccine
-4-Jan-21;CHINA AID;Sinopharm;2000;https://moh.gov.la/index.php/2021/01/04/target-to-vaccine
-10-Feb-21;CHINA AID;Sinopharm;300000;http://en.cidca.gov.cn/2021-02/10/c_596128.htm
-20-Mar-21;COVAX;AstraZeneca;132000;https://www.unicef.org/laos/press-releases/covid-19-vaccines-shipped-covax-facility-arrive-lao-pdr
-31-Mar-21;CHINA AID;Sinopharm;800000;https://lao-covaf.gov.la/news_detailed/31032021
-26-Apr-21;CHINA AID;Sinopharm;300000;https://moh.gov.la/index.php/2021/04/29/vaccine-for-laos
-2-Jun-21;COVAX - The US Government;Pfizer;100620;https://twitter.com/UNICEFLaos/status/1400010556262674432
-14-Jun-21;CHINA AID;Sinopharm;500000;https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4339626046062056
-15-Jul-21;COVAX - The US Government;Johnson & Johnson/Janssen;1008000;https://www.unicef.org/laos/press-releases/united-states-donates-more-one-million-covid-19-vaccines-lao-pdr-through-covax
-2-Aug-21;The UK Government;AstraZeneca;415000;https://twitter.com/JohnPearson68/status/1422152135362310145
-5-Aug-21;COVAX - The Japan Government;AstraZeneca;616820;https://www.unicef.org/laos/press-releases/japan-donates-covid-19-vaccines-lao-pdr-through-covax-facility
-7-Aug-21;CHINA AID;Sinopharm;1000000;https://www.facebook.com/CCEH.MoH.Lao/posts/4497030363654956
-22-Sep-21;Russia AID;Sputnik Light;30000;https://www.facebook.com/CCEH.MoH.Lao/posts/4638499822841342
-14-Oct-21;CHINA AID;Sinopharm;1000000;https://www.vientianetimes.org.la/freeContent/FreeConten_China202.php
-2-Nov-21;COVAX;AstraZeneca;523200;https://www.unicef.org/laos/press-releases/covax-facility-delivers-new-allotment-covid-19-vaccines-lao-pdr
-17-Nov-21;CHINA AID;Sinopharm;1900000;https://www.facebook.com/CCEH.MoH.Lao/videos/895763484470325
-29-Nov-21;COVAX;AstraZeneca;600000;https://www.unicef.org/laos/press-releases/donation-more-600000-doses-covid-19-vaccines-through-covax-facility-arrive-lao-pdr
-3-Dec-21;The Cambodia Government;Sinovac;500000;https://www.facebook.com/CCEH.MoH.Lao/posts/275414571288145
-8-Dec-21;The Malaysia Government;AstraZeneca;238400;https://www.facebook.com/CCEH.MoH.Lao/posts/279243760905226
-17-Dec-21;The Poland Government;AstraZeneca;138600;https://www.facebook.com/CCEH.MoH.Lao/posts/284923013670634
-19-Dec-21;The Australia Government;AstraZeneca;100000;https://www.facebook.com/CCEH.MoH.Lao/posts/286257696870499
-21-Dec-21;The Poland Government;AstraZeneca;501600;https://www.facebook.com/CCEH.MoH.Lao/posts/287634420066160
-23-Dec-21;COVAX - The French Government;AstraZeneca;192000;https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
-23-Dec-21;COVAX - The Japan Government;AstraZeneca;320200;https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
-23-Dec-21;COVAX - The Greece Government;Johnson & Johnson/Janssen;302400;https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
-23-Dec-21;COVAX - The Japan Government;Johnson & Johnson/Janssen;460800;https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
-2-Jan-22;COVAX - The US Government;Pfizer;799110;https://twitter.com/UNICEFLaos/status/1477576731791740933
-3-Jan-22;The Australia Government;Pfizer;905580;https://twitter.com/UNICEFLaos/status/1477712440359936001
-24-Jan-22;COVAX - The US Government;Pfizer;899730;https://twitter.com/UNICEFLaos/status/1485569663379853313
-26-Jan-22;CHINA AID;Sinopharm;2000000;https://www.vientianetimes.org.la/freeContent/FreeConten_China_17_22.php
-28-Jan-22;The Vietnam Government;AstraZeneca;500000;https://www.facebook.com/photo?fbid=312094944286774
-18-Feb-22;COVAX;AstraZeneca;594000;https://twitter.com/UNICEFLaos/status/1494650886387224580
+date,support_organization,type_of_vaccine,amount_of_vaccine,source
+2 January 2021,Russia AID,Sputnik V,1000,https://moh.gov.la/index.php/2021/01/04/target-to-vaccine
+4 January 2021,CHINA AID,Sinopharm,2000,https://moh.gov.la/index.php/2021/01/04/target-to-vaccine
+10 February 2021,CHINA AID,Sinopharm,300000,http://en.cidca.gov.cn/2021-02/10/c_596128.htm
+20 March 2021,COVAX,AstraZeneca,132000,https://www.unicef.org/laos/press-releases/covid-19-vaccines-shipped-covax-facility-arrive-lao-pdr
+31 March 2021,CHINA AID,Sinopharm,800000,https://lao-covaf.gov.la/news_detailed/31032021
+26 April 2021,CHINA AID,Sinopharm,300000,https://moh.gov.la/index.php/2021/04/29/vaccine-for-laos
+2 June 2021,COVAX - The US Government,Pfizer,100620,https://twitter.com/UNICEFLaos/status/1400010556262674432
+14 June 2021,CHINA AID,Sinopharm,500000,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1594657613892260/4339626046062056
+15 July 2021,COVAX - The US Government,Johnson & Johnson/Janssen,1008000,https://www.unicef.org/laos/press-releases/united-states-donates-more-one-million-covid-19-vaccines-lao-pdr-through-covax
+2 August 2021,The UK Government,AstraZeneca,415000,https://twitter.com/JohnPearson68/status/1422152135362310145
+5 August 2021,COVAX - The Japan Government,AstraZeneca,616820,https://www.unicef.org/laos/press-releases/japan-donates-covid-19-vaccines-lao-pdr-through-covax-facility
+7 August 2021,CHINA AID,Sinopharm,1000000,https://www.facebook.com/CCEH.MoH.Lao/posts/4497030363654956
+22 September 2021,Russia AID,Sputnik Light,30000,https://www.facebook.com/CCEH.MoH.Lao/posts/4638499822841342
+14 October 2021,CHINA AID,Sinopharm,1000000,https://www.vientianetimes.org.la/freeContent/FreeConten_China202.php
+2 November 2021,COVAX,AstraZeneca,523200,https://www.unicef.org/laos/press-releases/covax-facility-delivers-new-allotment-covid-19-vaccines-lao-pdr
+17 November 2021,CHINA AID,Sinopharm,1900000,https://www.facebook.com/CCEH.MoH.Lao/videos/895763484470325
+29 November 2021,COVAX,AstraZeneca,600000,https://www.unicef.org/laos/press-releases/donation-more-600000-doses-covid-19-vaccines-through-covax-facility-arrive-lao-pdr
+3 December 2021,The Cambodia Government,Sinovac,500000,https://www.facebook.com/CCEH.MoH.Lao/posts/275414571288145
+8 December 2021,The Malaysia Government,AstraZeneca,238400,https://www.facebook.com/CCEH.MoH.Lao/posts/279243760905226
+17 December 2021,The Poland Government,AstraZeneca,138600,https://www.facebook.com/CCEH.MoH.Lao/posts/284923013670634
+19 December 2021,The Australia Government,AstraZeneca,100000,https://www.facebook.com/CCEH.MoH.Lao/posts/286257696870499
+21 December 2021,The Poland Government,AstraZeneca,501600,https://www.facebook.com/CCEH.MoH.Lao/posts/287634420066160
+23 December 2021,COVAX - The French Government,AstraZeneca,192000,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
+23 December 2021,COVAX - The Japan Government,AstraZeneca,320200,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
+23 December 2021,COVAX - The Greece Government,Johnson & Johnson/Janssen,302400,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
+23 December 2021,COVAX - The Japan Government,Johnson & Johnson/Janssen,460800,https://www.facebook.com/CCEH.MoH.Lao/posts/288982719931330
+2 January 2022,COVAX - The US Government,Pfizer,799110,https://twitter.com/UNICEFLaos/status/1477576731791740933
+3 January 2022,The Australia Government,Pfizer,905580,https://twitter.com/UNICEFLaos/status/1477712440359936001
+24 January 2022,COVAX - The US Government,Pfizer,899730,https://twitter.com/UNICEFLaos/status/1485569663379853313
+26 January 2022,CHINA AID,Sinopharm,2000000,https://www.vientianetimes.org.la/freeContent/FreeConten_China_17_22.php
+28 January 2022,The Vietnam Government,AstraZeneca,500000,https://www.facebook.com/photo?fbid=312094944286774
